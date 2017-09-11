@@ -153,3 +153,5 @@ ENV/
 *.txt
 *.iml
 *.xml
+.idea/
+Python/
